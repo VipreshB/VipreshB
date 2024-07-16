@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vipresh Bisen
-- 👀 I’m interested in Frontend Development
+- 👀 I’m Frontend Development
 - 🌱 I’m currently learning MERN
 - 📫 How to reach me by github only
 - 😄 Pronouns: ...
